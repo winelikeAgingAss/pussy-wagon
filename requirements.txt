@@ -27,3 +27,4 @@ virtualenv
 virtualenv-clone
 Werkzeug
 wincertstore
+gunicorn
